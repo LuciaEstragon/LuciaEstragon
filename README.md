@@ -9,8 +9,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/LuciaEstragon">
+    <img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuciaEstragon&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
  
@@ -36,7 +36,7 @@
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-slack-new-50.png"></a>
 	 	<a style="margin-left: 10px;" target="_blank" href="https:--- DISCORD --">
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-discord-new-50.png"></a>
-	 	<a style="margin-left: 10px;" target="_blank" href="https:--- WHATSAP --">
+	 	<a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send?phone=(+34)680859725">
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-whatsapp-48.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https:--INSTAGRAM--">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
