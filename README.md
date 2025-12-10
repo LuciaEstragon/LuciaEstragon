@@ -1,6 +1,6 @@
 ## Hola a todos 👋 Soy Lucia Estrada!
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera%20Electrónica;Prototipado%20y%20diseño%203D;Maker!%20SW%20y%20HW;Siempre%20aprendiendo%20cosas%20nuevas;Preguntame%20lo%20que%20%quieras20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera%20Electrónica;Prototipado%20y%20diseño%203D;Maker!%20SW,%20HW%20y%20FW;Siempre%20aprendiendo%20cosas%20nuevas;Preguntame%20lo%20que%20quieras%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -24,7 +24,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ![Arduino](https://camo.githubusercontent.com/a722d20498d427034a404e997eae840a2870c118113ba8d7e15c3c6d7849af1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465)
-![Raspberrypi](https://camo.githubusercontent.com/ab771b39bea78e26bedc47586d32989fd1f13827ce5ded630afe3d357a8c8418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727950692d4335314134413f7374796c653d666f722d7468652d6261646765266c6f676f3d5261737062657272792d5069)
+![Raspberrypi](https://camo.githubusercontent.com/ab771b39bea78e26bedc47586d32989fd1f13827ce5ded630afe3d357a8c8418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727950692d4335314134413f7374796c653d666f722d7468652d6261646765266c6f676f3d5261737062657272792d5069) <img height="28em"  width="80em" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png"/>
+<!--![Espressive](https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png)-->
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
