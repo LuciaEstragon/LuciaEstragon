@@ -56,7 +56,7 @@
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-slack-new-50.png"></a>
 	 	<a style="margin-left: 10px;" target="_blank" href="https:--- DISCORD --">
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-discord-new-50.png"></a>
-	 	<a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send?phone=(+34)680859725">
+	 	<a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send?phone=+34680859725">
 			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-whatsapp-48.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https:--INSTAGRAM--">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
