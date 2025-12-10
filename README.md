@@ -24,22 +24,28 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lucia-estrada-gonzalez-2a9518a8/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/LuciaEstragon">
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+	   <!-- <a style="margin-left: 10px;" target="_blank" href="https:-----">
+				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>  -->
+	 	<a style="margin-left: 10px;" target="_blank" href="https:--- SLACK --">
+			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-slack-new-50.png"></a>
+	 	<a style="margin-left: 10px;" target="_blank" href="https:--- DISCORD --">
+			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-discord-new-50.png"></a>
+	 	<a style="margin-left: 10px;" target="_blank" href="https:--- WHATSAP --">
+			<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/icons8-whatsapp-48.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https:--INSTAGRAM--">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<!-- <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>  -->
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@luciaestrada1461">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<!-- <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
       </div>
 
 </p>
